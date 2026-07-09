@@ -48,12 +48,9 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-![Dashboard Preview](screenshots/dashboard.png)
-
----
-
+<p align="center">
+  <img src="" alt="Madhav E-commerce Sales Dashboard" width="900"/>
+</p>
 ## 👨‍💻 Author
 **Anurag Panchal**
 
