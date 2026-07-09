@@ -49,7 +49,7 @@ The dataset includes:
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="" alt="Madhav E-commerce Sales Dashboard" width="900"/>
+  <img src="https://github.com/AnuragPanchal6/PowerBI-Ecommerce-Sales-Dashboard/blob/main/SnapSshot%20of%20Dashboard.png" alt="Madhav E-commerce Sales Dashboard" width="900"/>
 </p>
 ## 👨‍💻 Author
 **Anurag Panchal**
